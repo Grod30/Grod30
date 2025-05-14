@@ -29,7 +29,7 @@
 
 **Autonomy. Resilience. Ethics. Self-learning.**
 
-> _"Moments of patient investment for a moment of divine clarity." — Huawei_
+> _"Decades of patient investment for a moment of divine clarity." — Huawei_
 
 I hope this profile makes you excited to work together, whether on a job or a passion project.
 

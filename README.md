@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giovanni Rodríguez Durán
 
 🎯 FullStack Developer passionate about free software and building tools that make a real social impact.  
-💻 I work with `React`, `Next.js`, `NestJS`, and `Electron` — and I'm currently diving into `React Native`.  
+💻 I work with `React`, `Next.js`, `NestJS/Django` and `Electron` — and I'm currently diving into `React Native`.  
 🐧 Linux is my daily driver. I'm my own DevOps, CLI-native since early on, with Git-first workflows.
 
 ---
@@ -29,7 +29,7 @@
 
 **Autonomy. Resilience. Ethics. Self-learning.**
 
-> _"Decades of patient investment for a moment of divine clarity." — Huawei_
+> _"Decades of patient investment for a moment of divine clarity." — Unknown
 
 I hope this profile makes you excited to work together, whether on a job or a passion project.
 

@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Giovanni Rodríguez Durán
 
 🎯 FullStack Developer passionate about free software and building tools that make a real social impact.  
-💻 I work with `React`, `Next.js`, `NestJS/Django` and `Electron` — and I'm currently diving into `React Native`.  
+💻 I work with `C#/TypeScript/Python` — and I'm currently diving into `GO`.  
 🐧 Linux is my daily driver. I'm my own DevOps, CLI-native since early on, with Git-first workflows.
 
 ---
 
 ## 🧰 My Tech Stack
 
-- **Frontend**: React (TypeScript), Next.js  
-- **Backend**: NestJS, .NET Core, Django  
-- **Mobile**: React Native *(learning now 🚧)*  
-- **Desktop**: Electron, Swing, GJS, Tkinter  
+- **Frontend**: React (TypeScript), Next.js, Blazor
+- **Backend**: NestJS, .NET, Django and GIN*(learning now 🚧)*  
+- **Mobile**: React Native(Typescript), Jetpack(Kotlin)
+- **Desktop**: Electron, GJS, Tkinter, WinForms,   
 - **Tooling**: Linux 🐧, CLI 💻, Git ✔️, self-managed DevOps
 
 ---

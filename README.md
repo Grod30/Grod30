@@ -29,7 +29,7 @@
 
 **Autonomy. Resilience. Ethics. Self-learning.**
 
-> _"Decades of patient investment for a moment of divine clarity." — Unknown
+> "Decades of patient investment for a moment of divine clarity." — Unknown
 
 I hope this profile makes you excited to work together, whether on a job or a passion project.
 

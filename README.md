@@ -11,7 +11,7 @@
 - **Frontend**: React (TypeScript), Next.js  
 - **Backend**: NestJS, .NET Core, Django  
 - **Mobile**: React Native *(learning now 🚧)*  
-- **Desktop**: Electron, Swing, GJS  
+- **Desktop**: Electron, Swing, GJS, Tkinter  
 - **Tooling**: Linux 🐧, CLI 💻, Git ✔️, self-managed DevOps
 
 ---
